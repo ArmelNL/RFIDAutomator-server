@@ -1,0 +1,19 @@
+{
+  "name": "RFIDAutomator-server",
+  "version": "1.0.0",
+  "description": "The server software for the RFIDAutomator-project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ArmelNL/RFIDAutomator-server.git"
+  },
+  "author": "Armel van Ravels",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArmelNL/RFIDAutomator-server/issues"
+  },
+  "homepage": "https://github.com/ArmelNL/RFIDAutomator-server"
+}
